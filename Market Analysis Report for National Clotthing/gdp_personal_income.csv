@@ -1,0 +1,154 @@
+SAINC5N Personal income by major component and earnings by NAICS industry 1/
+SAINC5N Personal income by major component and earnings by NAICS industry 1/
+State or DC
+GeoFips,GeoName,LineCode,Description,2020-2021
+00000,United States,,Income by place of residence,
+00000,United States,10,Personal income (thousands of dollars),7.5
+00000,United States,20,Population (persons) 2/,0.1
+00000,United States,30,Per capita personal income (dollars) 3/,7.3
+00000,United States,,Derivation of personal income,
+00000,United States,35,"  Earnings by place of work",8.1
+00000,United States,36,"  Less: Contributions for government social insurance 4/",6.3
+00000,United States,37,"    Employee and self-employed contributions for government social insurance",6.6
+00000,United States,38,"    Employer contributions for government social insurance",5.9
+00000,United States,42,"  Plus: Adjustment for residence 5/",3.6
+00000,United States,45,"  Equals: Net earnings by place of residence",8.3
+00000,United States,46,"  Plus: Dividends, interest, and rent 6/",2.9
+00000,United States,47,"  Plus: Personal current transfer receipts",9.1
+00000,United States,,Earnings by place of work (thousands of dollars),
+00000,United States,,Components of earnings,
+00000,United States,50,"  Wages and salaries",8.9
+00000,United States,60,"  Supplements to wages and salaries",5.3
+00000,United States,61,"    Employer contributions for employee pension and insurance funds 7/",5.0
+00000,United States,62,"    Employer contributions for government social insurance",5.9
+00000,United States,70,"  Proprietors' income 8/",7.3
+00000,United States,71,"    Farm proprietors' income",32.8
+00000,United States,72,"    Nonfarm proprietors' income",6.5
+00000,United States,,Earnings by industry,
+00000,United States,81,"  Farm earnings",21.5
+00000,United States,82,"  Nonfarm earnings",8.0
+00000,United States,90,"    Private nonfarm earnings",8.9
+00000,United States,100,"      Forestry, fishing, and related activities",5.4
+00000,United States,101,"        Forestry and logging",9.2
+00000,United States,102,"        Fishing, hunting and trapping",9.4
+00000,United States,103,"        Support activities for agriculture and forestry",4.1
+00000,United States,200,"      Mining, quarrying, and oil and gas extraction",8.8
+00000,United States,201,"        Oil and gas extraction",16.0
+00000,United States,202,"        Mining (except oil and gas)",3.9
+00000,United States,203,"        Support activities for mining",4.6
+00000,United States,300,"      Utilities",1.6
+00000,United States,400,"      Construction",6.7
+00000,United States,401,"        Construction of buildings",7.1
+00000,United States,402,"        Heavy and civil engineering construction",4.0
+00000,United States,403,"        Specialty trade contractors",7.1
+00000,United States,500,"      Manufacturing",4.9
+00000,United States,510,"        Durable goods manufacturing",5.4
+00000,United States,511,"          Wood product manufacturing",9.9
+00000,United States,512,"          Nonmetallic mineral product manufacturing",4.4
+00000,United States,513,"          Primary metal manufacturing",3.8
+00000,United States,514,"          Fabricated metal product manufacturing",3.3
+00000,United States,515,"          Machinery manufacturing",3.6
+00000,United States,516,"          Computer and electronic product manufacturing",7.7
+00000,United States,517,"          Electrical equipment, appliance, and component manufacturing",6.7
+00000,United States,518,"          Motor vehicles, bodies and trailers, and parts manufacturing",8.7
+00000,United States,519,"          Other transportation equipment manufacturing",0.7
+00000,United States,521,"          Furniture and related product manufacturing",6.4
+00000,United States,522,"          Miscellaneous manufacturing",8.4
+00000,United States,530,"        Nondurable goods manufacturing",4.0
+00000,United States,531,"          Food manufacturing",4.3
+00000,United States,532,"          Beverage and tobacco product manufacturing",6.8
+00000,United States,533,"          Textile mills",3.5
+00000,United States,534,"          Textile product mills",4.4
+00000,United States,535,"          Apparel manufacturing",7.3
+00000,United States,536,"          Leather and allied product manufacturing",8.4
+00000,United States,537,"          Paper manufacturing",1.0
+00000,United States,538,"          Printing and related support activities",1.3
+00000,United States,539,"          Petroleum and coal products manufacturing",5.2
+00000,United States,541,"          Chemical manufacturing",3.4
+00000,United States,542,"          Plastics and rubber products manufacturing",6.2
+00000,United States,600,"      Wholesale trade",6.0
+00000,United States,700,"      Retail trade",10.3
+00000,United States,701,"        Motor vehicle and parts dealers",17.0
+00000,United States,702,"        Furniture and home furnishings stores",16.7
+00000,United States,703,"        Electronics and appliance stores",7.9
+00000,United States,704,"        Building material and garden equipment and supplies dealers",7.7
+00000,United States,705,"        Food and beverage stores",1.0
+00000,United States,706,"        Health and personal care stores",6.2
+00000,United States,707,"        Gasoline stations",7.5
+00000,United States,708,"        Clothing and clothing accessories stores",13.1
+00000,United States,709,"        Sporting goods, hobby, musical instrument, and book stores",15.0
+00000,United States,711,"        General merchandise stores",10.3
+00000,United States,712,"        Miscellaneous store retailers",14.8
+00000,United States,713,"        Nonstore retailers",13.8
+00000,United States,800,"      Transportation and warehousing",9.2
+00000,United States,801,"        Air transportation",2.8
+00000,United States,802,"        Rail transportation",2.7
+00000,United States,803,"        Water transportation",0.2
+00000,United States,804,"        Truck transportation",7.2
+00000,United States,805,"        Transit and ground passenger transportation",14.5
+00000,United States,806,"        Pipeline transportation",3.9
+00000,United States,807,"        Scenic and sightseeing transportation",19.8
+00000,United States,808,"        Support activities for transportation",9.8
+00000,United States,809,"        Couriers and messengers",21.3
+00000,United States,811,"        Warehousing and storage",21.4
+00000,United States,900,"      Information",16.3
+00000,United States,901,"        Publishing industries (except Internet)",22.3
+00000,United States,902,"        Motion picture and sound recording industries",25.8
+00000,United States,903,"        Broadcasting (except Internet)",0.1
+00000,United States,904,"        Internet publishing and broadcasting 9/",(NA)
+00000,United States,905,"        Telecommunications",2.3
+00000,United States,906,"        Data processing, hosting, and related services",23.7
+00000,United States,907,"        Other information services 9/",26.8
+00000,United States,1000,"      Finance and insurance",9.1
+00000,United States,1001,"        Monetary Authorities-central bank",7.3
+00000,United States,1002,"        Credit intermediation and related activities",8.9
+00000,United States,1003,"        Securities, commodity contracts, and other financial investments and related activities",15.4
+00000,United States,1004,"        Insurance carriers and related activities",2.9
+00000,United States,1005,"        Funds, trusts, and other financial vehicles",13.6
+00000,United States,1100,"      Real estate and rental and leasing",7.0
+00000,United States,1101,"        Real estate",8.8
+00000,United States,1102,"        Rental and leasing services",0.8
+00000,United States,1103,"        Lessors of nonfinancial intangible assets (except copyrighted works)",18.1
+00000,United States,1200,"      Professional, scientific, and technical services",10.1
+00000,United States,1300,"      Management of companies and enterprises",9.2
+00000,United States,1400,"      Administrative and support and waste management and remediation services",11.2
+00000,United States,1401,"        Administrative and support services",11.6
+00000,United States,1402,"        Waste management and remediation services",5.4
+00000,United States,1500,"      Educational services",5.1
+00000,United States,1600,"      Health care and social assistance",5.7
+00000,United States,1601,"        Ambulatory health care services",7.8
+00000,United States,1602,"        Hospitals",4.3
+00000,United States,1603,"        Nursing and residential care facilities",1.1
+00000,United States,1604,"        Social assistance",7.0
+00000,United States,1700,"      Arts, entertainment, and recreation",21.5
+00000,United States,1701,"        Performing arts, spectator sports, and related industries",22.1
+00000,United States,1702,"        Museums, historical sites, and similar institutions",5.4
+00000,United States,1703,"        Amusement, gambling, and recreation industries",22.7
+00000,United States,1800,"      Accommodation and food services",31.1
+00000,United States,1801,"        Accommodation",20.2
+00000,United States,1802,"        Food services and drinking places",33.8
+00000,United States,1900,"      Other services (except government and government enterprises)",4.9
+00000,United States,1901,"        Repair and maintenance",7.8
+00000,United States,1902,"        Personal and laundry services",11.8
+00000,United States,1903,"        Religious, grantmaking, civic, professional, and similar organizations",0.6
+00000,United States,1904,"        Private households",1.8
+00000,United States,2000,"    Government and government enterprises",3.3
+00000,United States,2001,"      Federal civilian",3.3
+00000,United States,2002,"      Military",6.6
+00000,United States,2010,"      State and local",3.0
+00000,United States,2011,"        State government",3.1
+00000,United States,2012,"        Local government",3.0
+
+Legend/Footnotes
+1/ The estimates of earnings for 1998-2006 are based on the 2002 North American Industry Classification System (NAICS). The estimates for 2007-2010 are based on the 2007 NAICS. The estimates for 2011-2016 are based on the 2012 NAICS. The estimates for 2017 forward are based on the 2017 NAICS.
+"2/ Census Bureau midyear population estimate. BEA produced intercensal annual state population statistics for 2010 to 2019 that are tied to the Census Bureau decennial counts for 2010 and 2020. BEA developed intercensal population statistics because this data was not published when Census released state population data for 2020 and 2021, which are based on the 2020 decennial counts. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data."
+"3/ Per capita personal income is total personal income divided by total midyear population. BEA produced intercensal population figures for 2010 to 2019 that are tied to the Census Bureau decennial counts for 2010 and 2020 to create consistent time series that are used to prepare per capita personal income statistics. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data."
+"4/ Employer contributions for government social insurance are included in earnings by industry and earnings by place of work, but they are excluded from net earnings by place of residence and personal income. Employee and self-employed contributions are subtractions in the calculation of net earnings by place of residence and all of the income measures."
+"5/ The adjustment for residence is the net inflow of the earnings of interarea commuters. For the United States, it consists of adjustments for border workers and US residents employed by international organizations and foreign embassies."
+6/ Rental income of persons includes the capital consumption adjustment.
+7/ Includes actual employer contributions and actuarially imputed employer contributions to reflect benefits accrued by defined benefit pension plan participants through service to employers in the current period.
+8/ Proprietors' income includes the inventory valuation adjustment and the capital consumption adjustment.
+"9/ Under the 2007 NAICS, internet publishing and broadcasting was reclassified to other information services."
+Note. All dollar estimates are in thousands of current dollars (not adjusted for inflation). Statistics presented in thousands of dollars do not indicate more precision than statistics presented in millions of dollars.
+(NA) Not available.
+"  Last updated: September 30, 2022--revised statistics for 2017-2021."
